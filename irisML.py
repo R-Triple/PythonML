@@ -1,4 +1,6 @@
 ## learning Data Analytics using the iris flowers dataset.
+## current script runs several ML algorithms and visualizes
+## the output on a graph to determine most accurate ML algorithm.
 
 # load libraries
 import pandas
