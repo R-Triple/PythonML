@@ -1,8 +1,4 @@
-# Machine Learning is programming to solve a problem not explicitly told to solve
 
-# NumPy is a library with a very efficient and linear algebra functions.
-
-# scikit-learn
 
 # pandas makes it easy to load and work with large data sets like a spreadsheet on excel
 
