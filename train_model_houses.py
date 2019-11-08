@@ -1,4 +1,4 @@
-## Unsupervised learning method to 
+## Unsupervised learning method to train model for calculating house prices.
 from sklearn.externals import joblib
 
 # load the data sets
